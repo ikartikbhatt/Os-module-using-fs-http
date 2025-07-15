@@ -1,5 +1,5 @@
-const dirFn=require("./createDir")
-const fileFn=require("./createFile")
+const dirFn=require("./handleDir")
+const fileFn=require("./handleFile")
 
 
 
