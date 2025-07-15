@@ -1,0 +1,19 @@
+{
+  "name": "project-3_os_module",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon server/app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "nodemon": "^3.1.10"
+  },
+  "devDependencies": {
+    "localtunnel": "^2.0.2"
+  }
+}
